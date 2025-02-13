@@ -1,4 +1,4 @@
-# **Caso de Uso: Cambiar Clave**
+# **Cambiar Clave**
 
 ## **ID**
 - **CU-004**

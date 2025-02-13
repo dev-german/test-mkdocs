@@ -1,4 +1,4 @@
-# **Caso de Uso: Transferir Dinero**
+# **Transferir Dinero**
 
 ## **ID**
 - **CU-002**

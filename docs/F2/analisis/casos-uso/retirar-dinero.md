@@ -1,4 +1,4 @@
-# **Caso de Uso: Retirar Dinero**
+# **Retirar Dinero**
 
 ## **ID**
 - **CU-001**

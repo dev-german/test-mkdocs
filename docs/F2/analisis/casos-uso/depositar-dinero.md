@@ -1,4 +1,4 @@
-# **Caso de Uso: Depositar Dinero**
+# **Depositar Dinero**
 
 ## **ID**
 - **CU-003**

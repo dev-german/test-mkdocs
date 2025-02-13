@@ -1,3 +1,7 @@
+---
+title: Alcance de sistema
+---
+
 # **Alcance del Sistema: Cajero Automático**
 
 Este documento define el alcance del sistema para los casos de uso del cajero automático, incluyendo las operaciones de **Retirar Dinero**, **Transferir Dinero**, **Depositar Dinero** y **Cambiar Clave**.
