@@ -1,0 +1,8 @@
+dev.germane
+dev.germane.auth
+dev.germane.customer
+dev.germane.exception
+dev.germane.journey
+dev.germane.jwt
+dev.germane.s3
+dev.germane.security

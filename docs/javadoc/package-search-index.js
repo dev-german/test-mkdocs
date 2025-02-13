@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.germane"},{"l":"dev.germane.auth"},{"l":"dev.germane.customer"},{"l":"dev.germane.exception"},{"l":"dev.germane.journey"},{"l":"dev.germane.jwt"},{"l":"dev.germane.s3"},{"l":"dev.germane.security"}];updateSearchResults();
