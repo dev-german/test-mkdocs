@@ -44,3 +44,7 @@ Permite al usuario cambiar su PIN (clave de acceso) en el cajero automático.
 ## **Postcondiciones**
 - El PIN de la tarjeta se actualiza en el sistema.
 - El usuario recibe un mensaje de confirmación.
+
+## **Requisitos Asociados**
+- [RF-001](../requerimientos.md#rf001)
+- [RF-026](../requerimientos.md#rf026)

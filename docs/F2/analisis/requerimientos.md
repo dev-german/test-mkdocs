@@ -7,8 +7,8 @@ Este documento describe los requerimientos funcionales del sistema del cajero au
 ## **Requerimientos Funcionales**
 
 ### **Autenticación y Seguridad**
-1. **RF-001:** El sistema debe permitir al usuario insertar una tarjeta válida.
-2. **RF-002:** El sistema debe solicitar al usuario que ingrese su PIN.
+1. **RF-001:** El sistema debe permitir al usuario insertar una tarjeta válida. <a id="rf001"></a>
+2. **RF-002:** El sistema debe solicitar al usuario que ingrese su PIN. <a id="rf002"></a>
 3. **RF-003:** El sistema debe validar el PIN ingresado con el sistema bancario.
 4. **RF-004:** El sistema debe bloquear la tarjeta después de 3 intentos fallidos de ingreso de PIN.
 5. **RF-005:** El sistema debe garantizar la seguridad de las transacciones mediante el uso de cifrado.
@@ -40,5 +40,5 @@ Este documento describe los requerimientos funcionales del sistema del cajero au
 25. **RF-025:** El sistema debe imprimir un comprobante de la transacción.
 
 ### **Cambio de Clave**
-26. **RF-026:** El sistema debe mostrar un menú con la opción "Cambiar clave".
+26. **RF-026:** El sistema debe mostrar un menú con la opción "Cambiar clave". <a id="rf026"></a>
 27. **RF-027:** El sistema debe solicitar al usuario que ingrese un nuevo
